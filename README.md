@@ -1,4 +1,5 @@
-Description
+*Description*
+
 This Marketing Agency on-the-job ticket was undertaken to take existing code and refactor it to make the agency website more accessible. 
 
 The motivation is web accessibility - an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. 
@@ -13,10 +14,11 @@ The code was reviewed and refactored such that:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-Installation
+*Installation*
+
 N/A
 
-Usage
+*Usage*
 <img src="./assets/images/completed-refactor.png">
 
 The project has been deployed via GitHub Pages and can be found:
@@ -31,10 +33,11 @@ HTML elements nowfollow a logical structure and semantic elements were added, re
 
 The CSS was reworked to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-Credits
+*Credits*
+
 Horiseon Social Solution Services, Inc
 https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.w3schools.com/tags/att_img_alt.asp
 
-License
+*License*
 Please refer to the LICENSE in the repo.
